@@ -1,0 +1,11 @@
+<svg width="720" height="860" viewBox="0 0 720 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="860" rx="36" fill="#F3E9D8"/>
+  <rect x="36" y="36" width="648" height="788" rx="28" fill="#FBF7F0" stroke="#CCB38E" stroke-width="2"/>
+  <circle cx="360" cy="282" r="116" fill="#D9C4A1"/>
+  <path d="M170 696C170 584.989 259.989 495 371 495H349C460.011 495 550 584.989 550 696V727H170V696Z" fill="#D9C4A1"/>
+  <path d="M267 282C267 230.638 308.638 189 360 189C411.362 189 453 230.638 453 282V314C453 365.362 411.362 407 360 407C308.638 407 267 365.362 267 314V282Z" fill="#E8D7BD"/>
+  <path d="M248 297C248 230.174 302.174 176 369 176C435.826 176 490 230.174 490 297V303C460.167 290.833 430.333 284.75 400.5 284.75C343.976 284.75 293.143 306.833 248 351V297Z" fill="#8A5A2B"/>
+  <path d="M151 102H569" stroke="#CCB38E" stroke-width="2" stroke-linecap="round"/>
+  <text x="360" y="109" fill="#8A5A2B" font-family="Georgia, 'Times New Roman', serif" font-size="28" text-anchor="middle">Portrait Placeholder</text>
+  <text x="360" y="781" fill="#5E6A75" font-family="'Segoe UI', sans-serif" font-size="28" text-anchor="middle">Replace this file with your real photo</text>
+</svg>
