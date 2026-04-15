@@ -175,6 +175,10 @@ a:hover {
   color: #294766;
 }
 
+.bilingual {
+  font-size: 1.02rem;
+}
+
 .hero-meta {
   display: flex;
   flex-wrap: wrap;
@@ -302,6 +306,11 @@ a:hover {
   color: var(--ink);
   text-decoration: none;
   font-family: "Aptos", "Segoe UI", sans-serif;
+}
+
+.contact-note {
+  margin-top: 0.9rem;
+  color: var(--muted);
 }
 
 @keyframes rise-in {
